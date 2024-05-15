@@ -443,7 +443,7 @@ footer > .media-icons > img:hover{
     filter: grayscale(50%);
 }
 
-@media(max-width: 375px) {
+@media screen and (max-width: 375px) {
 
     html,body{
         overflow-x: hidden;
